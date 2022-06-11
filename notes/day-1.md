@@ -1,6 +1,6 @@
 # app.js conf - Day I
 
-## Keynote & Expo announcements
+## Keynote and Expo announcements
 Charlie Cheever - Expo
 * Zoe app - started off as a personal nutrition tracker
 	* Changed over to covid symptom tracker which was used by a lot of people in the UK
@@ -120,7 +120,7 @@ Catalin Miron ([@mironcatalin](https://twitter.com/mironcatalin))
 
 ---
 
-## The State of platforms
+## The state of one codebase for all the platforms
 Sanket Sahu - GeekyAnts ([@sanketsahu](https://twitter.com/sanketsahu))
 * Approach
 	* use native components and bridge to call across
@@ -163,7 +163,7 @@ Sanket Sahu - GeekyAnts ([@sanketsahu](https://twitter.com/sanketsahu))
 
 ---
 
-## Publish updates with expo & RN
+## Publish updates with Expo and React Native
 Quinlan Jung - Expo ([@quinlanjung](https://twitter.com/quinlanjung))
 
 * Big corp is trying to make their own app for employee management
@@ -211,7 +211,7 @@ Quinlan Jung - Expo ([@quinlanjung](https://twitter.com/quinlanjung))
 
 ---
 
-## Measuring performance
+## Measuring and improving React Native performance
 Alexandre Moureaux - BAM ([@almouro](https://twitter.com/almouro))
 
 * 60FPS - The grail of performance
@@ -262,7 +262,7 @@ Alexandre Moureaux - BAM ([@almouro](https://twitter.com/almouro))
 
 ---
 
-## New Architecture
+## Bringing the New React Native Architecture to the OSS community
 Nicola Corti - Meta ([@cortinico](https://twitter.com/cortinico))
 
 * 2018 talk on the new architecture
@@ -333,7 +333,7 @@ Nicola Corti - Meta ([@cortinico](https://twitter.com/cortinico))
 
 ---
 
-## Shopify - Building for us and for all
+## Building for all and for us: how contributing to open source projects is helping Shopify and React Native build the future of Mobile
 Monica Restrepo - Shopify ([@ImRestrepo](https://twitter.com/ImRestrepo))
 
 * RN at shopify
@@ -434,7 +434,7 @@ Vanya Deasy Safrina - Traveloka ([@vanydeasy](https://twitter.com/vanydeasy))
 
 ---
 
-## Web3 - StarkNet & React Native
+## Web3 for Mass Adoption with StarkNet and React Native
 
 Sean Han - Playoasis([@0xs34n](https://twitter.com/0xs34n))
 
